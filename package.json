@@ -1,0 +1,10 @@
+{
+  "name": "check-airnz-price",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "James",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^15.3.2"
+  }
+}
