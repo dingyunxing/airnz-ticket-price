@@ -130,9 +130,9 @@ dist
 .pnp.*
 
 # image
-.png
-.jpg
-.jpeg
+*.png
+*.jpg
+*.jpeg
 
  *.DS_Store
 .DS_Store
